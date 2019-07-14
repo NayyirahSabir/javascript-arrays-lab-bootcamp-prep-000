@@ -33,5 +33,5 @@ function removeLastKitten(){
 }
 
 function removeFirstKitten(){
-  return 
+  return [...kittens, name]
 }
